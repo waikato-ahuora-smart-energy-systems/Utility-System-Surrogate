@@ -1,9 +1,9 @@
 # Surrogate Modelling of Industrial Steam Systems
 
-Data analysis and surrogate model development of industrial utility system
+Data analysis and surrogate model development of industrial utility system. 
+The surrogate model can then be used to calculate bulk and marginal steam costs for the same dataset.
 
 The current version is 0.5. The full version will involve 
-- Combined bulk and marginal steam cost calculation methods using surrogate model
 - Code refactor for removing redundancy. Likely as a generic class that can be imported
 - User guides & documentation
 - Package through pip
