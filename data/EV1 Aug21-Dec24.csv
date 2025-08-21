@@ -1,0 +1,19 @@
+﻿Tag Name,,,,,,,,,,,,,,
+Descr,450 STEAM TO EV1 EFFECT 1,EV1 Out Liquor FLR,EV1 Out Solids %,EV1 Out Liquor Temp,EV1 In Liquor FLR,EV1 In Liquor Temp,EV1 In Solids %,Water Temp,CPM Rate,BPM Rate,HPM Rate,EV1 Vacuum Pressure,EV1 Vacuum Pressure-SP,Shift Letter
+Units,T/H,L/M,%,C,L/MIN,C,%,C,T/DAY,ADT/DA,ADT/D,KPAA,KPAA,
+Plot Min,,,,,,,,,,,,,,
+Plot Max,,,,,,,,,,,,,,
+Filter Min,,,,,,,,,,,,,,
+Filter Max,,,,,,,,,,,,,,
+Excl Row,,,,,,,,,,,,,,
+Interpolate,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,State
+Decimals,2,2,2,2,2,2,2,2,2,2,2,2,2,2
+Time Delay,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+Count,,,,,,,,,,,,,,
+Avg,,,,,,,,,,,,,,
+SD,,,,,,,,,,,,,,
+Min,,,,,,,,,,,,,,
+Max,,,,,,,,,,,,,,
+Test Data/Calc,,,,,,,,,,,,,,
+359712,,,,,,,,,,,,,,
+1/08/2021 0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0

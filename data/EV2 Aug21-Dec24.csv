@@ -1,0 +1,19 @@
+﻿Tag Name,,,,,,,,,,,,,,
+Descr,EV2 STEAM TOTAL,EV2 Out Liquor FLR,EV2 Out Solids %,EV2 In Liquor FLR,Internal Sweetning,EV2 In Solids %,EV2 In Liquor Temp,Air Temp,Wash Liquor FLR,CPM Rate,BPM Rate,HPM Rate,EV2 Vacuum Pressure,Shift Letter
+Units,T/H,L/M,%,L/M,L/M,%,C,DEGC,L/M,T/DAY,ADT/DA,ADT/D,KPA,
+Plot Min,,,,,,,,,,,,,,
+Plot Max,,,,,,,,,,,,,,
+Filter Min,,,,,,,,,,,,,,
+Filter Max,,,,,,,,,,,,,,
+Excl Row,,,,,,,,,,,,,,
+Interpolate,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,State
+Decimals,,,,,,,,,,,,,,
+Time Delay,,,,,,,,,,,,,,
+Count,,,,,,,,,,,,,,
+Avg,,,,,,,,,,,,,,
+SD,,,,,,,,,,,,,,
+Min,,,,,,,,,,,,,,
+Max,,,,,,,,,,,,,,
+Test Data/Calc,,,,,,,,,,,,,,
+359712,,,,,,,,,,,,,,
+1/08/2021 0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0

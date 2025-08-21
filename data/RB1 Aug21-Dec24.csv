@@ -1,0 +1,19 @@
+﻿Tag Name,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Descr,Natural Gas to RB1,RB1 Steam Generation,RB1 Liquor FLR,RB1 Liquor Solids %,Air Temp,PRIMARY AIR FLOW,SEC AIR FLOW,SECONDARY AIR FLOW,RB1 Steam PRESSURE,RB1 BLACK LIQ RAIL PRESSURE,RB1 Liquor Temp,RB2 Liquor FLR,RB2 Liquor Solids %,HP-S&R,IP-PM,MP-PM,MP-PD,MP-BPM,MP-CPM,MP-BLP,MP-HPM,MP-AUX,LP-2CD,LP-BLP,LP-CST,LP-IDP,LP-EVP
+Units,M3/HR,FY0032,L/M,%SOL,DEGC,%,%,%,KPA,KPA,C,L/M,% SOL,T/H,T/H,T/H,T/H,T/H,T/H,T/H,T/H,T/H,T/H,T/H,T/H,T/H,T/H
+Plot Min,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Plot Max,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Filter Min,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Filter Max,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Excl Row,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Interpolate,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,TimeAvg,,,,,,,,,,,,,,
+Decimals,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Time Delay,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Count,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Avg,,,,,,,,,,,,,,,,,,,,,,,,,,,
+SD,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Min,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Max,,,,,,,,,,,,,,,,,,,,,,,,,,,
+Test Data/Calc,,,,,,,,,,,,,,,,,,,,,,,,,,,
+210240,,,,,,,,,,,,,,,,,,,,,,,,,,,
+1/08/2021 0:00,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
